@@ -1,0 +1,17 @@
+u8\delay.o: delay.c
+u8\delay.o: delay.h
+u8\delay.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+u8\delay.o: .\RTE\_u8\RTE_Components.h
+u8\delay.o: ../Drivers/CMSIS/Include/core_cm3.h
+u8\delay.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+u8\delay.o: ../Drivers/CMSIS/Include/cmsis_version.h
+u8\delay.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+u8\delay.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+u8\delay.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
+u8\delay.o: ../Core/Inc/main.h
+u8\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+u8\delay.o: ../Core/Inc/stm32f1xx_hal_conf.h
+u8\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+u8\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+u8\delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+u8\delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
